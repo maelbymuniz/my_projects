@@ -7,7 +7,7 @@ Caso deseje ver todos os meus projetos, [clique aqui](https://github.com/maelbym
 
 
 ## SQL
-  - Projeto 1
+  - [Lia - Junior Data Analyst - Teste Técnico](https://github.com/maelbymuniz/Lia-Junior-Data-Analyst_Teste-t-cnico)
   - Projeto 2
 
 ## Python
