@@ -11,5 +11,5 @@ Caso deseje ver todos os meus projetos, [clique aqui](https://github.com/maelbym
   - Projeto 2
 
 ## Python
-  - Projeto 1
+  - [7 Days of Code](https://github.com/maelbymuniz/7-Days-of-Code---Python-Pandas)
   - Projeto 2
